@@ -2,7 +2,7 @@
 
 ## About me:
 My name is Yuke Liu. I am a second year Computer science Student at UCSD. 
-**Check out my _own_ Project:** [Microposts](https://infinite-earth-06426.herokuapp.com/). Checkout this dancing [parrot](https://github.com/Yuke-Liu/Yuke.github.io/blob/Edit-markdown/index.md#heres-a-dancing-parrot-gif)
+**Check out my _own_ Project:** [Microposts](https://infinite-earth-06426.herokuapp.com/). 
 
 ## Favroite quote:
 A wise man once said:
