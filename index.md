@@ -13,22 +13,22 @@ A wise man once said:
 
 ## Favroite Stuff:
 1. Games:
-  - Bethesda:
-    - Skyrim
-    - Fallout 4
-  - CD Project Red:
-    - Witcher 3
+   - Bethesda:
+     - Skyrim
+     - Fallout 4
+   - CD Project Red:
+     - Witcher 3
 
 2. Food:
-  - Tofu
-  - Ramen
-  - Chinese food
+   - Tofu
+   - Ramen
+   - Chinese food
 
 3. Language:
-  - Java
-  - Ruby
-  - C++
-  - Python
+   - Java
+   - Ruby
+   - C++
+   - Python
 
 
 
