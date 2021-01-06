@@ -12,17 +12,19 @@ A wise man once said:
 `System.out.println("Hello World!");`
 
 ## Favroite Stuff:
-- Games:
-  - Skyrim
-  - Fallout 4
-  - Witcher 3
+1. Games:
+  - Bethesda:
+    - Skyrim
+    - Fallout 4
+  - CD Project Red:
+    - Witcher 3
 
-- Food:
+2. Food:
   - Tofu
   - Ramen
   - Chinese food
 
-- Language:
+3. Language:
   - Java
   - Ruby
   - C++
