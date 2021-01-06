@@ -19,9 +19,10 @@ A wise man once said:
   - Tofu
   - Ramen
 
-##Tasks:
+## Tasks:
 - [ ] Finish this
 - [ ] Finish my project
 
-##[Readme:](./README.md)
+## [Readme:](./README.md)
 
+![CultOfPartyParrot](https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif)
