@@ -1,10 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to Yuke's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Yuke-Liu/Yuke.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Check out my _own_ Project: ** [Microposts](https://infinite-earth-06426.herokuapp.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Favroite quote:
+A wise man once said:
+> I said that?
 
-### Markdown
+## Favroite code:
+`System.out.println("Hello World!");`
+
+##Favroite Stuff:
+-Games:
+    -Skyrim
+    -Fallout 4
+    -Witcher 3
+
+-Food:
+    -Tofu
+    -Ramen
+
+##Tasks:
+-[] Finish this
+-[] Finish my project
+
+##[Readme:](./README.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
