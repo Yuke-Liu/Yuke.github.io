@@ -1,6 +1,6 @@
 # Welcome to Yuke's GitHub Pages
 
-**Check out my _own_ Project: ** [Microposts](https://infinite-earth-06426.herokuapp.com/)
+**Check out my _own_ Project:** [Microposts](https://infinite-earth-06426.herokuapp.com/)
 
 ## Favroite quote:
 A wise man once said:
@@ -9,48 +9,19 @@ A wise man once said:
 ## Favroite code:
 `System.out.println("Hello World!");`
 
-##Favroite Stuff:
--Games:
-    -Skyrim
-    -Fallout 4
-    -Witcher 3
+## Favroite Stuff:
+- Games:
+  - Skyrim
+  - Fallout 4
+  - Witcher 3
 
--Food:
-    -Tofu
-    -Ramen
+- Food:
+  - Tofu
+  - Ramen
 
 ##Tasks:
--[] Finish this
--[] Finish my project
+- [ ] Finish this
+- [ ] Finish my project
 
 ##[Readme:](./README.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuke-Liu/Yuke.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
